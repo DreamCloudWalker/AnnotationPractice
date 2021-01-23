@@ -1,2 +1,3 @@
 # AnnotationPractice
-An annotation practice kotlin project
+An annotation practice kotlin project;
+Used to practice Java Annotations, Reflect, Dynamic Proxy, Generics ...
