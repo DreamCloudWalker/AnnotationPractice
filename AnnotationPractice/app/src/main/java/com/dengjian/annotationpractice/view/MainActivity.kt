@@ -1,7 +1,7 @@
 package com.dengjian.annotationpractice.view
 
 import android.annotation.SuppressLint
-import org.jetbrains.anko.intentFor
+//import org.jetbrains.anko.intentFor
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
